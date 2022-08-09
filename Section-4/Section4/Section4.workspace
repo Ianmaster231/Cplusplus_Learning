@@ -7,8 +7,9 @@
   <Project Name="CompilerErrors" Path="CompilerErrors/CompilerErrors.project" Active="No"/>
   <Project Name="CompilerWarnings" Path="CompilerWarnings/CompilerWarnings.project" Active="No"/>
   <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project"/>
   <BuildMatrix>
-    <WorkspaceConfiguration Name="Debug" Selected="yes">
+    <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Project1" ConfigName="Debug"/>
       <Project Name="Project2" ConfigName="Debug"/>
@@ -17,8 +18,9 @@
       <Project Name="CompilerErrors" ConfigName="Debug"/>
       <Project Name="CompilerWarnings" ConfigName="Debug"/>
       <Project Name="ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="FirstProgram" ConfigName="Debug"/>
     </WorkspaceConfiguration>
-    <WorkspaceConfiguration Name="Release" Selected="yes">
+    <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Project1" ConfigName="Release"/>
       <Project Name="Project2" ConfigName="Release"/>
@@ -27,6 +29,7 @@
       <Project Name="CompilerErrors" ConfigName="Release"/>
       <Project Name="CompilerWarnings" ConfigName="Release"/>
       <Project Name="ChallengeSolution" ConfigName="Release"/>
+      <Project Name="FirstProgram" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
