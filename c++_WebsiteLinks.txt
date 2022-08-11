@@ -1,2 +1,4 @@
 This you can run a c++ shell commands and try them out from a website https://cpp.sh/
 This could help alot aswell very similar https://ideone.com/OKKfQY
+
+did lessons just explanation of error types
