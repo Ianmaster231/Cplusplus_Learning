@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="C++Learning" Database="" Version="10000"/>
+<CodeLite_Workspace Name="C++Learning" Database="" Version="10000">
+  <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="No"/>
+  <Project Name="Structure1_Excersice1" Path="Structure1_Excersice1/Structure1_Excersice1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="BasicIO" ConfigName="Debug"/>
+      <Project Name="Structure1_Excersice1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="BasicIO" ConfigName="Release"/>
+      <Project Name="Structure1_Excersice1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
