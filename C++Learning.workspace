@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="C++Learning" Database="" Version="10000">
   <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="No"/>
-  <Project Name="Structure1_Excersice1" Path="Structure1_Excersice1/Structure1_Excersice1.project" Active="Yes"/>
+  <Project Name="Structure1_Excersice1" Path="Structure1_Excersice1/Structure1_Excersice1.project" Active="No"/>
+  <Project Name="InitializingVariables" Path="InitializingVariables/InitializingVariables.project" Active="No"/>
+  <Project Name="GlobalVariables" Path="GlobalVariables/GlobalVariables.project" Active="No"/>
+  <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
+  <Project Name="SizeOfOperator" Path="SizeOfOperator/SizeOfOperator.project" Active="No"/>
+  <Project Name="Constant's" Path="Constant's/Constant's.project" Active="No"/>
+  <Project Name="Section6_Challange" Path="Section6_Challange/Section6_Challange.project" Active="No"/>
+  <Project Name="Arrays" Path="Arrays/Arrays.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="BasicIO" ConfigName="Debug"/>
       <Project Name="Structure1_Excersice1" ConfigName="Debug"/>
+      <Project Name="InitializingVariables" ConfigName="Debug"/>
+      <Project Name="GlobalVariables" ConfigName="Debug"/>
+      <Project Name="PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="SizeOfOperator" ConfigName="Debug"/>
+      <Project Name="Constant's" ConfigName="Debug"/>
+      <Project Name="Section6_Challange" ConfigName="Debug"/>
+      <Project Name="Arrays" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="BasicIO" ConfigName="Release"/>
       <Project Name="Structure1_Excersice1" ConfigName="Release"/>
+      <Project Name="InitializingVariables" ConfigName="Release"/>
+      <Project Name="GlobalVariables" ConfigName="Release"/>
+      <Project Name="PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="SizeOfOperator" ConfigName="Release"/>
+      <Project Name="Constant's" ConfigName="Release"/>
+      <Project Name="Section6_Challange" ConfigName="Release"/>
+      <Project Name="Arrays" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

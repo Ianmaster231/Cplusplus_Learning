@@ -1,0 +1,4 @@
+-IC:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\Constant's
+-std=c++17
+-target
+

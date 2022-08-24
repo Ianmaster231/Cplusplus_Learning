@@ -1,0 +1,4 @@
+-IC:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\GlobalVariables
+-std=c++17
+-target
+

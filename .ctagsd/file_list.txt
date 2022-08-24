@@ -1,2 +1,9 @@
+C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\Constant's\main.cpp
+C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\SizeOfOperator\main.cpp
+C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\PrimitiveTypes\main.cpp
+C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\Arrays\main.cpp
+C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\GlobalVariables\main.cpp
+C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\InitializingVariables\main.cpp
+C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\Section6_Challange\main.cpp
 C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\Structure1_Excersice1\main.cpp
 C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\BasicIO\main.cpp

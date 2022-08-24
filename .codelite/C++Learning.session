@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\C++Learning.workspace">
-  <int Value="1" Name="m_selectedTab"/>
+  <int Value="0" Name="m_selectedTab"/>
   <wxString Value="C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\C++Learning.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\BasicIO\main.cpp" Name="FileName"/>
-      <int Value="51" Name="FirstVisibleLine"/>
-      <int Value="63" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\Structure1_Excersice1\main.cpp" Name="FileName"/>
-      <int Value="3" Name="FirstVisibleLine"/>
-      <int Value="11" Name="CurrentLine"/>
+      <wxString Value="C:\Users\Ian Zammit\Documents\C++Learning\Cplusplus_Learning\Arrays\main.cpp" Name="FileName"/>
+      <int Value="29" Name="FirstVisibleLine"/>
+      <int Value="42" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
